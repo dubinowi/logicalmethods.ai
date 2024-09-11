@@ -229,7 +229,7 @@ arguments they take. In syntax specifications, we often write this as a
 superscript. So, for example, the fact that $BLUE$ applies to one thing (it's
 _unary_) would be written $BLUE^1$. 
 
-**Logical symbols**
+5) **Logical symbols**
 
 These are the result of idealization. Which logical symbols are available
 depends on the logical system. There symbols for _many_ logically relevant
@@ -294,7 +294,7 @@ concepts.
     $\mathsf{and}$, $\mathsf{or}$, $\mathsf{not}$ in
     [Pyton](https://en.wikipedia.org/wiki/Python_(programming_language)). 
 
-6) **Quantifiers**.
+8) **Quantifiers**.
 
     These allow us to express claims about all ($\forall$) or some ($\exists$)
     things. More generally, quantifiers allow us to make _generalizations_.
@@ -303,7 +303,7 @@ concepts.
 
 **Auxiliaries**.
 
-8) **Parsing** 
+9) **Parsing** 
 
     These are symbols that help the notation of the language. They are things
     like commas "," or parentheses "(" and ")". They don't have a meaning
